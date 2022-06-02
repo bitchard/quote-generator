@@ -6,3 +6,6 @@ The before and after I could not for the life of me figure out why box wasnt goi
 
 After I finally got the font awsome icone to work. I was missing a link tag.
 ![Screenshot (31)](https://user-images.githubusercontent.com/99539947/171603667-3d52408f-4334-43ba-b180-408637d68bdc.png)
+
+Just testing out the mobile responsiveness we just added to the css thru the media query
+![Screenshot (33)](https://user-images.githubusercontent.com/99539947/171609948-ff7cc44e-aedb-4c5e-a99d-326b712e66fc.png)
